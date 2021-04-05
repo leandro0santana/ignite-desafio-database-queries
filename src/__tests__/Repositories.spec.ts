@@ -105,10 +105,10 @@ describe('Repositories', () => {
           title: 'Rocket League',
         }),
         expect.objectContaining({
-          title: 'The Last Of Us',
+          title: 'Need For Speed: Most Wanted',
         }),
         expect.objectContaining({
-          title: 'Need For Speed: Most Wanted',
+          title: 'The Last Of Us',
         }),
       ],
     });
